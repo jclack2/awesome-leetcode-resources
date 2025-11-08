@@ -17,6 +17,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Arrays](https://www.youtube.com/watch?v=SlNq09scdWE)
 - [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
@@ -82,6 +83,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 ## 📺 YouTube Playlist
+- [AlgoMaster DSA Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2&pp=gAQB)
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
